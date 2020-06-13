@@ -1,5 +1,3 @@
 # My-Turtle-Python-Codes
-Turtle Python Codes
 
-Hi,
-Welcome to my Turtle reposotory applications.
+Hi guys this repo contains all of the source code for my video overview on the python turtle graphics library.
